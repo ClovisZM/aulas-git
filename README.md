@@ -5,5 +5,5 @@
 Para rodar o sistema é necessário a seguinte aplicação: 
 
 ```
-npm install node
+node App.js
 ```
